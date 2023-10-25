@@ -5,7 +5,7 @@ appodeal.com, 85575, DIRECT
 bidmachine.io, 85575, DIRECT
 #AdMob
 #Replace the Publisher ID below with your Admob Publisher ID
-google.com, pub-7029441971364418, DIRECT, f08c47fec0942fa0
+google.com, pub-7557860494092653, DIRECT, f08c47fec0942fa0
 
 #Resellers
 152media.info,152M5,RESELLER
